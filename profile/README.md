@@ -18,6 +18,11 @@
 <h3>Generazione di immagini da testo (Text-to-Image)</h3>
 <p>La funzione Text-to-Image permette agli utenti di creare immagini originali inserendo semplicemente una descrizione testuale. Lensgo AI interpreta il testo fornito, generando visivi pertinenti di alta qualità in pochi secondi. Questo rende l'opzione ideale per la produzione rapida di contenuti unici e attraenti per campagne pubblicitarie, social media o articoli editoriali.</p>
 
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*8MPY6YlgDH_RR23EIvOY0A.jpeg"
+  width="800"
+  height="450"
+/>
+
 <h3>Conversione di immagini statiche in video animati (Image-to-Video)</h3>
 <p>Lensgo AI trasforma immagini statiche in brevi video animati, aggiungendo movimento ed espressività. Questa caratteristica è perfetta per generare contenuti dinamici senza l'uso di software dedicati o conoscenze di animazione. Punti chiave:</p>
 <ul>
